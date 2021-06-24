@@ -1,0 +1,4 @@
+backend/node_modules
+frontend/node_modules
+.devcontainer/devcontainer.json
+.devcontainer/Dockerfile
